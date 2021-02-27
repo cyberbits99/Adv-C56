@@ -1,0 +1,27 @@
+body{
+text-algin:center;
+background-color:cornsilk;
+}
+div{
+margin-top: 15px;
+}
+.image-section{
+display:flex;
+justify-content: center;
+}
+.section{
+margin-right: 25px;
+margin-left: :25px;
+background-color:transparent;
+text-align: center;
+} 
+img{
+  height: 250px;
+ width: 450px;
+}
+h1{
+text-align: center;
+}
+h4{
+text-align: center;
+}
